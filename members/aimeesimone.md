@@ -9,4 +9,4 @@ The Ruby path, obvsly.
 * Git
 * Ruby
 * Javascript
-* Killing history using git revert
+* Killing history using git rebase
